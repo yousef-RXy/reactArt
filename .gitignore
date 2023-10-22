@@ -23,5 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
-#build
-build
+# production
+/build
+
+#old dev
+index-old.css
